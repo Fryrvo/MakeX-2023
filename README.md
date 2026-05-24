@@ -6,7 +6,7 @@ this have a mix of Explorer and Starter since i am mentor of Starter team and i 
 This is an code that I use in MakeX robotics compaction 2023 
 against all odd this code get my team to 3nd running up 
 And I proudly announce that I do it all on block code because I can't remember python script 
-And I proud of it since one and only team that use block code in entire compaction
+And I proud of it since one and only team that use block code in entire compaction ill taje the L
 
 have a mix of .mblock and python script
 
