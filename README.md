@@ -1,19 +1,26 @@
-# MakeX - 2023
-MakeX 2023 robotic Companion explorer abu dhabi CODE
+# MakeX - 2023: Robotics Competition Explorer (Abu Dhabi)
 
+This repository contains the code my team used in the **MakeX Robotics Competition (Explorer category) 2023** in Abu Dhabi. 
 
-This is an code that I use in MakeX robotics compaction Explorer 2023 
-against all odd this code get my team to 3nd running up 
-I do it all on block code because I can't remember python script 
-And I proud of it since one and only team that use block code in entire compaction ill take the L
+Against all odds, this code secured **4th place (3rd runner-up)** for my team! 
 
-have a mix of .mblock and python script
+I built this entire project using block coding because I can't remember the Python scripts at the time. 
+I am incredibly proud of this because we were the only team in the entire competition using block code, and we still landed right near the top. 
 
-# note
-Program use Mblox and vs studio code
-IMPORTAN
-this is archive and i will not update or improve anytings 
+The repository includes a mix of `.mblock` files and generated Python scripts.
 
-# term of use 
-You may use my code and modify but please credit me and do not claim the credit your self 
-(But to be honest write your own it will be much better
+---
+
+## 📌 Important Notes
+
+* **Software Used:** mBlock & VS Code.
+* **Archive Only:** This project is strictly a personal archive and part of my portfolio. I will not be updating, improving, or maintaining it.
+* **Docker Compose Credits:** Please note that I did not write the Docker Compose configuration used in this environment. All credit for that specific setup goes to the original creator; it is included here solely to ensure the project runs as a complete portfolio showcase.
+
+---
+
+## ⚖️ Terms of Use
+
+You are welcome to use and modify this code, but **please give proper credit** and do not claim it as your own. 
+
+*(But to be completely honest, you're probably better off writing your own from scratch—it'll turn out much better!)*
