@@ -1,12 +1,11 @@
 # MakeX - 2023
 MakeX 2023 robotic Companion explorer abu dhabi CODE
 
-this have a mix of Explorer and Starter since i am mentor of Starter team and i do the code for them...
 
-This is an code that I use in MakeX robotics compaction 2023 
+This is an code that I use in MakeX robotics compaction Explorer 2023 
 against all odd this code get my team to 3nd running up 
-And I proudly announce that I do it all on block code because I can't remember python script 
-And I proud of it since one and only team that use block code in entire compaction ill taje the L
+I do it all on block code because I can't remember python script 
+And I proud of it since one and only team that use block code in entire compaction ill take the L
 
 have a mix of .mblock and python script
 
