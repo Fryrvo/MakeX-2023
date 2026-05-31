@@ -13,7 +13,7 @@ this is my work from scratch.
 
 ---
 
-## 📌 Important Notes
+## Notes
 
 * **Software Used:** mBlock & VS Code.
 * **Archive Only:** This project is archive and part of my portfolio. I will not be updating, improving, or maintaining it.
