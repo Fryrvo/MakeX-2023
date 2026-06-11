@@ -1,6 +1,8 @@
 # MakeX - 2023: Robotics Competition Explorer (Abu Dhabi)
 
-This repository contains the code my team used in the **MakeX Robotics Competition (Explorer category) 2023** in Abu Dhabi. 
+code my team used in the **MakeX Robotics Competition (Explorer category) 2023** in Abu Dhabi. 
+
+more infomation about it is here! **[MakeX](https://res-cn.makeblock.com/makex/doc/2022-2023%20Season%20MakeX%20Explorer%20Eco-Pioneer%20Rules%20Guide%20V2.0.pdf)**
 
 Against all odds, this code get **4th place (3rd runner-up)** for my team! 
 
